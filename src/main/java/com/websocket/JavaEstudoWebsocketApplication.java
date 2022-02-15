@@ -9,4 +9,5 @@ public class JavaEstudoWebsocketApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JavaEstudoWebsocketApplication.class, args);
 	}
+	
 }
